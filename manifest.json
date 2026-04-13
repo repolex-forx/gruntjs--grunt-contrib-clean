@@ -1,0 +1,40 @@
+{
+  "manifest_version": "1.0",
+  "org": "gruntjs",
+  "repo": "grunt-contrib-clean",
+  "versions": [
+    {
+      "commit": "9bd20a6effd37c37d892d227812e16c83c679651",
+      "parsed_at": "2026-04-13T16:02:04.675834+00:00",
+      "tag": "v2.0.1",
+      "filetree": "filetree/9bd20a6effd37c37d892d227812e16c83c679651.nq.gz",
+      "blobs": [
+        "blob/ea099b5cfca0ee61249d365ac77c2432db6da49a.nq.gz",
+        "blob/499a8e633a8187576557ac16b553e11c50520d2a.nq.gz",
+        "blob/84a77e20b136184fab959fb3a9c0535afa25fba2.nq.gz",
+        "blob/83f9fcffd0078f983662cea622e98843de7f2b22.nq.gz",
+        "blob/c59478ad6875f70bb893ada23fea7d4cd5b1b36f.nq.gz",
+        "blob/08c6efb29c734da9ef2bdddacef4e67d9c3dc576.nq.gz",
+        "blob/393d814542b4d1801a2492dfa82bb0de424238dc.nq.gz",
+        "blob/105366b5888c4f34aa65d7687eda885c6d1113bc.nq.gz",
+        "blob/e79c3cf760012e5dc6d03f117fdf9952bb35b7bc.nq.gz",
+        "blob/1073d15045c5cc10546bb5c91cfdeb84cc460772.nq.gz",
+        "blob/5733e6f75901ba7e8cffd5b09717fe5321f4c624.nq.gz",
+        "blob/176a458f94e0ea5272ce67c36bf30b6be9caf623.nq.gz",
+        "blob/77751bff5f55ea6bf568a288d576689ebef10703.nq.gz",
+        "blob/507f91281ddb349f4b46006c67c28165b7690cf6.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/5cb6bfd4d74d1d9cca0e57c40ce8855378b78d86.nq.gz",
+        "blob/d3567c075ee099fe993a3a9030547b9075b5bc9d.nq.gz",
+        "blob/7afa398a1d67ec2c2618d0897c4b60ac4c64ba7a.nq.gz",
+        "blob/6ad8929516f42e5e0da0a655c2d48a4a172787c9.nq.gz",
+        "blob/54476e6a8245b70a2740c536ab506787d36d5ad8.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
